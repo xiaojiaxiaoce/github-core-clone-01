@@ -1,5 +1,9 @@
 # GitHub-compatible forge
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/xiaojiaxiaoce/github-core-clone-01/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard)
+[![reward](https://make.fun/badge/github-core-clone-01/xiaojiaxiaoce/github-core-clone-01/reward.svg)](https://make.fun/bounty/github-core-clone-01)
+
 A single-process Git forge written in `main.ts` for Node.js 22, using only Node built-ins. It provides a GitHub-style REST v3 surface, GraphQL, MCP over HTTP, and Git smart HTTP (`receive-pack` v0 and `upload-pack` v2). Repository, issue, pull request, and Git object state lives in the process's in-memory store.
 
 ## Run
